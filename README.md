@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Puliyangot</h1>
-<h3 align="center">A passionate Machine learning engineer from India</h3>
+<h3 align="center">A passionate engineer from India</h3>
 <img align="right" alt="coding" width="270" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47j6eoz5q6wcgf26u4rgpaaovp53ld803prit6a5qa&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 - 🌱 I’m currently learning *Machine Learning,Data Science*
